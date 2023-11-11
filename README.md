@@ -26,6 +26,9 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 
+###  Deploy / Dev
+![Netlify Badge](https://img.shields.io/badge/netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
 ### Tools 
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![WebStorm Badge](https://img.shields.io/badge/WebStorm-007ACC?style=flat-square&logo=WebStorm&logoColor=white)
