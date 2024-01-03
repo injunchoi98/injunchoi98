@@ -13,27 +13,40 @@
   
 ## Skills 🛠
 
-###  MarkUp / StyleSheet
+### Markup / Stylesheet
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-###  Language 
+![styled-components Badge](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
+### Language
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
-###  Framework / Library 
+### Framework / Library
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-###  Deploy / Dev
+![Recoil Badge](https://img.shields.io/badge/Recoil-3677E5?style=flat&logo=recoil&logoColor=white)
+![React Query Badge](https://img.shields.io/badge/React_Query-EF4444?style=flat&logo=react-query&logoColor=white)
+
+### Deploy / DB
 ![Netlify Badge](https://img.shields.io/badge/netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
+![Vite Badge](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=white)
+![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-### Tools 
+### Test
+![Cypress Badge](https://img.shields.io/badge/Cypress-027780?style=flat&logo=cypress&logoColor=white)
+![Jest Badge](https://img.shields.io/badge/Jest-CA461A?style=flat&logo=jest&logoColor=white)
+
+### Tools
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![WebStorm Badge](https://img.shields.io/badge/WebStorm-007ACC?style=flat-square&logo=WebStorm&logoColor=white)
+![WebStorm Badge](https://img.shields.io/badge/WebStorm-007ACC?style=flat&logo=WebStorm&logoColor=white)
 ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)
-![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaePoong719&layout=compact)
 
