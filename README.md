@@ -38,9 +38,6 @@
 ![Vite Badge](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=white)
 ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-//### Test
-//![Cypress Badge](https://img.shields.io/badge/Cypress-027780?style=flat&logo=cypress&logoColor=white)
-//![Jest Badge](https://img.shields.io/badge/Jest-CA461A?style=flat&logo=jest&logoColor=white)
 
 ### Tools
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
