@@ -53,7 +53,7 @@
 - 서울시립대학교 알고리즘 동아리 ALLim_-: 2020.03.02 ~ 2020.11.25
 
 ## Personal Projects 📁 
-
+- 혁플란트 홈페이지: [HyukPlant](https://github.com/EarlyRiser42/BrotherDentist)
 - 싱커톤 시즌3 우수상: [Summary-Card-Synchathon](https://github.com/TaePoong719/Summary-Card-Synchathon)
 - 트위터 클론 코딩: [login_form](https://github.com/LateEarlyRiser/login_form)
 - Solana Blockchain NFT 프로젝트: [MoonSnails](https://github.com/TaePoong719/MoonSnails)
