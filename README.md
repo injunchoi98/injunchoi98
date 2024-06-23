@@ -63,7 +63,7 @@
 ## Awards & Languages 🏅
 - 싱커톤 시즌3: KB국민은행 · NH농협은행 · 교보라이프플래닛 배 AI 활용 개발대회 우수상 수상(23.11.08)
 - 2023학년도 제 2회 교수학습 개발센터 프로그램 참여수기 공모전 장려상(24.02.05)
-- OPIc: Intermediate High(23.11.05)
+- OPIc: Intermediate High(23.11.05)(2A8202539323)
 
 ## Algorithm Rank ⭐ 
 <br/>
