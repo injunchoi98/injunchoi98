@@ -23,8 +23,8 @@ Sep 2023 – Oct 2023
 **Open Source Contribution Academy**  
 Jul 2024 - Present  
 Mentee, Ministry of Science and ICT
-- Contributed to various open source projects, providing bug fixes, feature implementations, and performance optimizations
-- Actively engaged in community discussions and code reviews
+- Contributed to open source projects, providing bug fixes, feature implementations, and performance optimizations
+- Actively engaged in community discussions
 
 ## OPEN SOURCE CONTRIBUTIONS
 **Contributor, Node.js**
