@@ -22,7 +22,7 @@ Sep 2023 – Oct 2023
 
 **Mentee, Open Source Contribution Academy by Ministry of Science and ICT**  
 Jul 2024 - Present  
-- Contributed to various open source projects, providing bug fixes, feature implementations, and performance optimizations  
+- Contributed to open source projects, providing bug fixes, feature implementations, and performance optimizations  
 - Actively engaged in community discussions and code reviews  
 
 ## OPEN SOURCE CONTRIBUTIONS
@@ -34,7 +34,7 @@ Jul 2024 - Present
 ## PROJECTS
 
 ### Team Projects
-- **PISENT (Web Hackathon 3rd Prize):** [Summary-Card-Synchathon](https://github.com/TaePoong719/Summary-Card-Synchathon)  
+- **PINSET (Web Hackathon 3rd Prize):** [Summary-Card-Synchathon](https://github.com/TaePoong719/Summary-Card-Synchathon)  
 - **MoonSnails (Solana Blockchain NFT Project):** [MoonSnails](https://github.com/TaePoong719/MoonSnails)  
 - **Solove (Ethereum Blockchain NFT Project):** [SoloveProject-v2](https://github.com/free-mint-nft/SoloveProject-v2)  
 
