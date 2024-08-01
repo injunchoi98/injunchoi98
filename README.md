@@ -27,7 +27,7 @@ Mentee, Ministry of Science and ICT
 - Actively engaged in community discussions
 
 ## OPEN SOURCE CONTRIBUTIONS
-**Contributor, Node.js**
+**Node.js**
 - Reported and fixed an issue for Windows tests to ensure folder names are not case-sensitive on Windows
 - Improved performance by 5-9% using `reduce` and `Object.assign`
 - Refactored internal Node.js files to use `primordials`, maintaining performance without degradation
