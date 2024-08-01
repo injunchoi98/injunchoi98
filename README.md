@@ -20,9 +20,8 @@ Sep 2023 – Oct 2023
 - Suggested an idea that distills contract terms to summaries and enables questioning about specific clauses, inspired by past personal challenges  
 - Implemented modal with parallel routing, summary contract hooks with React  
 
-**Open Source Contribution Academy**  
+**Mentee, Open Source Contribution Academy by Ministry of Science and ICT**  
 Jul 2024 - Present  
-Mentee, Ministry of Science and ICT  
 - Contributed to various open source projects, providing bug fixes, feature implementations, and performance optimizations  
 - Actively engaged in community discussions and code reviews  
 
