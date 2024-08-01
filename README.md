@@ -28,8 +28,8 @@ Jul 2024 - Present
 ## OPEN SOURCE CONTRIBUTIONS
 **Contributor, Node.js**  
 - Reported and fixed an issue for Windows tests to ensure folder names are not case-sensitive on Windows  
-- Improved performance by 5-9% using `reduce` and `Object.assign`  
-- Refactored internal Node.js files to use `primordials`, maintaining performance without degradation  
+- Improved the performance of the `resolveObject` function by 5-9% using `reduce` and `Object.assign`  
+- Refactored the `parseParams` function, an internal Node.js file, to use `primordials`, ensuring no performance degradation  
 
 ## PROJECTS
 
@@ -44,7 +44,8 @@ Jul 2024 - Present
 
 ## SKILLS AND ADDITIONAL INFORMATION
 
-**Skills**  
+### Skills  
+---
 **Markup / Stylesheet**  
 - HTML5, CSS3, Tailwind CSS, styled-components  
 
@@ -60,10 +61,10 @@ Jul 2024 - Present
 **Tools**  
 - GitHub, WebStorm, Slack  
 
-## LANGUAGES
+### LANGUAGES
 - Conversational level - OPIc IH certified (Nov 2023)  
 
-## AWARDS
+### AWARDS
 - Achieved 3rd prize over 800 teams at AI Utilization Web Hackathon (Nov 2023)  
 - Achieved 3rd prize at Teaching and Learning Program Essay Contest (Feb 2024)  
 
