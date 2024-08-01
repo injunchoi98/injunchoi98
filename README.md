@@ -45,7 +45,6 @@ Jul 2024 - Present
 ## SKILLS AND ADDITIONAL INFORMATION
 
 ### Skills  
----
 **Markup / Stylesheet**  
 - HTML5, CSS3, Tailwind CSS, styled-components  
 
