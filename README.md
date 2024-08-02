@@ -1,5 +1,5 @@
 # Choi In Jun
-Dongdaemun-gu | Seoul, South Korea | [https://wonderwalls.tistory.com/](https://wonderwalls.tistory.com/)
+Dongdaemun-gu | Seoul, South Korea | tkfydtls464@gmail.com
 
 ## EDUCATION
 **UNIVERSITY OF SEOUL**  
