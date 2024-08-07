@@ -29,7 +29,6 @@ Jul 2024 - Present
 **Contributor, Node.js**  
 - Reported and fixed an issue for Windows tests to ensure folder names are not case-sensitive on Windows  
 - Improved the performance of the `resolveObject` function by 5-9% using `reduce` and `Object.assign`  
-- Refactored the `parseParams` function, an internal Node.js file, to use `primordials`, ensuring no performance degradation  
 
 ## PROJECTS
 
