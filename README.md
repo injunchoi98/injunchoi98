@@ -26,7 +26,7 @@ Jul 2024 - Present
 - Actively engaged in community discussions and code reviews  
 
 ## OPEN SOURCE CONTRIBUTIONS
-**Contributor, Node.js**  
+**Node.js**  
 - Reported and fixed an issue for Windows tests to ensure folder names are not case-sensitive on Windows  
 - Improved the performance of the `resolveObject` function by 5-9% using `reduce` and `Object.assign`  
 
