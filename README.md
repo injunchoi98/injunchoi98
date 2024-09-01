@@ -20,10 +20,15 @@
 ---
 
 ## Education
-- Bachelor of Electrical Engineering and Computer Science  
-  University of Seoul, Seoul, South Korea  
-  Mar 2018 – Feb 2025
+-**UNIVERSITY OF SEOUL**
+-Seoul, South Korea
+-Bachelor of Electrical Engineering and Computer Science
+-Mar 2018 - Feb 2025
 
+一##
+EXPERIENCE
+宮
+알림
 ---
 
 ## Personal Experience 🎓
