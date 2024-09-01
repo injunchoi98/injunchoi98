@@ -20,10 +20,10 @@
 ---
 
 ## Education 🎓
--**UNIVERSITY OF SEOUL**
--Seoul, South Korea
--Bachelor of Electrical Engineering and Computer Science
--Mar 2018 - Feb 2025
+- **UNIVERSITY OF SEOUL**
+- Seoul, South Korea
+- Bachelor of Electrical Engineering and Computer Science
+- Mar 2018 - Feb 2025
 
 ---
 
