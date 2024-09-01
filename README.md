@@ -19,19 +19,15 @@
 
 ---
 
-## Education
+## Education 🎓
 -**UNIVERSITY OF SEOUL**
 -Seoul, South Korea
 -Bachelor of Electrical Engineering and Computer Science
 -Mar 2018 - Feb 2025
 
-一##
-EXPERIENCE
-宮
-알림
 ---
 
-## Personal Experience 🎓
+## Experience 📚
 
 - Lead Mentee, Open Source Contribution Academy by Ministry of Science and ICT  
   Jul 2024 - Present
