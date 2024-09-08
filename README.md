@@ -30,7 +30,7 @@ Mar 2018 - Feb 2025
 ## Work Experience 💼
 - <strong>Ericsson-LG Enterprise</strong><br>
 Frontend developer<br>
-2024-09 - Present<br>
+Sep 2024 - Present<br>
 Stack: React, React Native, Javascript, Typescript
 
 ---
