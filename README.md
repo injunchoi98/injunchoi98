@@ -64,6 +64,7 @@ Mar 2020 – Nov 2020
 - Reported and fixed `pathToFileURL` benchmark issue and added more test cases.
 - Reported and fixed UNC prefix handling issue in `pathtofileurl` function.
 - Reported and fixed an issue for Windows test to ensure folder names are not case-sensitive on Windows.
+- Reported and fixed `pathtofileurl` function that can handle special characters properly
 - Improved the performance of the `resolveObject` function by 5-9% using `reduce` and `Object.assign`.
 
 ---
