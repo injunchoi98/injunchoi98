@@ -36,7 +36,7 @@ Stack: React, React Native, Javascript, Typescript
 ---
 ## Personal Experience 📚
 - <strong>Lead Mentee, Open Source Contribution Academy by Ministry of Science and ICT</strong><br>
-Jul 2024 - Present<br>
+Jul 2024 - Nov 2024<br>
 - <strong>Embedded Club ZETIN, University of Seoul</strong><br>
 Mar 2018 – Dec 2018<br>
 - <strong>Algorithm Club ALLim_-, University of Seoul</strong><br>
