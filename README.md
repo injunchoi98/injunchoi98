@@ -70,7 +70,7 @@ Mar 2020 – Nov 2020
 ---
 
 ## Awards & Languages 🏅
-- 1st Prize The Minister of Science and ICT Award: 2024 Opensource contribution Academy
+- The Minister of Science and ICT Award: 2024 Opensource contribution Academy
 - 3rd Prize: AI Utilization Web Hackathon, KB Kookmin Bank, NH Nonghyup Bank, Kyobo Lifeplanet (Nov 2023)
 - 1st Prize: MVP Development Hackathon, Blavers (Aug 2024)
 - 3rd Prize: 2nd Annual Teaching and Learning Program Essay Contest, University of Seoul (Feb 2024)
