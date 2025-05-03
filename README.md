@@ -42,20 +42,6 @@ Mar 2018 – Dec 2018<br>
 - <strong>Algorithm Club ALLim_-, University of Seoul</strong><br>
 Mar 2020 – Nov 2020
 
-
----
-
-## Projects 🚀
-
-### Team Projects
-- PINSET (Web Hackathon 3rd Prize): [Summary-Card-Synchathon](https://github.com/TaePoong719/Summary-Card-Synchathon)
-- MoonSnails (Solana Blockchain NFT Project): [MoonSnails](https://github.com/TaePoong719/MoonSnails)
-- Solove (Ethereum Blockchain NFT Project): [SoloveProject-v2](https://github.com/free-mint-nft/SoloveProject-v2)
-
-### Personal Projects
-- HyukPlant Website: [HyukPlant](https://github.com/EarlyRiser42/BrotherDentist)
-- Twitter Clone Coding: [Login Form](https://github.com/LateEarlyRiser/login_form)
-
 ---
 
 ## Open Source Contributions 🌐
